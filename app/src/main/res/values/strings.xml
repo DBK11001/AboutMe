@@ -11,4 +11,17 @@ limitations under the License. -->
 
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">David koritsanszky</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        \n\nThis is filler text.
+        \n\nI am using this text to try out ScrollView.
+        \nI wqndqwkjdnb qwjdb qw,jdb qw,dnqw,dn,q mndqwdqdqwdmn.
+        \nJKLNDWJQBD JQHWBDJQW WJKDDWJKDB QJWDNQWJKNDKQWND.
+        \n\nThis is a new paragraph. You better believe it.
+        \nI need more text to fill in the screen.
+        \nDWDWDQWDQDSQWDIQWJKDNQWJKNDJKQWNDQWNJDKQNWKLDJNQWd.
+        \nThis is filler text to fill in the screen.
+        \n\nThe end.
+    </string>
 </resources>
